@@ -3,11 +3,11 @@
 
 
 Soy ingeniero de software profesional desde hace más de ocho años.
-<br/>
+
 Soy una persona responsable con gran capacidad de liderazgo, me gusta asumir retos y ayudar a otros personas con sus inconvenientes porque así mismo yo también aprendo una que otra cosita nueva.
-<br/>
+
 He trabajado en con diferentes tecnologías a lo largo de mi carrera desarrollando cada día mi lógica de programación. He tenido la oportunidad de liderar grupos de trabajo y proyectos sacándolos adelante.
-<br/>
+
 En mi carrera he tenido grandes retos que he logrado asumir con gran profesionalismo y responsabilidad.
 
 
