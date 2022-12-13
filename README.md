@@ -1,4 +1,4 @@
-# Hola, mi nombre es Brais Moure 👋
+# Hola, mi nombre es Johann Smith Reyes 👋
 ### Full-stack orientado al Front
 
 
