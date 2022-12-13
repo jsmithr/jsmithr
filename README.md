@@ -2,14 +2,16 @@
 ### Full-stack orientado al Front
 
 
-Soy ingeniero de software profesional desde hace más de doce años.
+Soy ingeniero de software profesional desde hace más de ocho años.
+<br/>
+Soy una persona responsable con gran capacidad de liderazgo, me gusta asumir retos y ayudar a otros personas con sus inconvenientes porque así mismo yo también aprendo una que otra cosita nueva.
+<br/>
+He trabajado en con diferentes tecnologías a lo largo de mi carrera desarrollando cada día mi lógica de programación. He tenido la oportunidad de liderar grupos de trabajo y proyectos sacándolos adelante.
+<br/>
+En mi carrera he tenido grandes retos que he logrado asumir con gran profesionalismo y responsabilidad.
 
-En 2014 dejé mi trabajo en una multinacional y creé [**MoureDev**](https://mouredev.com), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
-Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
 
-En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
 
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
 ## Tecnologías:
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
@@ -32,4 +34,4 @@ En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear conten
 
 ## Contacto y apoyo:
 
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![Email](https://img.shields.io/badge/johannsmithr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
