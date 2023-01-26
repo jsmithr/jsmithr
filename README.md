@@ -14,12 +14,13 @@ En mi carrera he tenido grandes retos que he logrado asumir con gran profesional
 
 ## Tecnologías:
 
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()</br>
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)]()</br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()</br>
+[![TypeScript](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)]()</br>
 [![TypeScript](https://img.shields.io/badge/TypeScript-4870BE?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()</br>
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()</br>
 [![Angular](https://img.shields.io/badge/Angular-C92B34?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()</br>
-[![NodeJS](https://img.shields.io/badge/NodeJS-89BB3C?style=for-the-badge&logo=nodejs&logoColor=white&labelColor=101010)]()</br>
+[![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()</br>
 [![Git](https://img.shields.io/badge/Git-D15835?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()</br>
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()</br>
 </br>
