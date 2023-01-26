@@ -16,7 +16,7 @@ En mi carrera he tenido grandes retos que he logrado asumir con gran profesional
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()</br>
 [![TypeScript](https://img.shields.io/badge/TypeScript-4870BE?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![Angular](https://img.shields.io/badge/Angular-C92B34?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
