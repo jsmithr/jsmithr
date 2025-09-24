@@ -1,5 +1,5 @@
 # Hola, mi nombre es Johann Smith Reyes 👋
-### Full-stack orientado al Front
+### Senior FrontEnd
 
 
 Soy ingeniero de software profesional desde hace más de ocho años.
