@@ -1,4 +1,4 @@
-# Hola, mi nombre es Johann Smith Reyes 👋
+# Hola, soy Johann Smith Reyes 👋
 ### Desarrollador FullStack
 
 
