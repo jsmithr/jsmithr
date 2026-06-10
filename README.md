@@ -1,8 +1,8 @@
 # Hola, mi nombre es Johann Smith Reyes 👋
-### Senior FrontEnd
+### Desarrollador FullStack
 
 
-Soy ingeniero de software profesional desde hace más de ocho años.
+Ingeniero de software con más de ocho años de experiencia siendo FullStack.
 
 Soy una persona responsable con gran capacidad de liderazgo, me gusta asumir retos y ayudar a otros personas con sus inconvenientes porque así mismo yo también aprendo una que otra cosita nueva.
 
